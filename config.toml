@@ -1,4 +1,4 @@
 theme = "relearn"
-baseURL = "http://example.org/"
+baseURL = "https://teshiba.github.io/csworkshop/"
 languageCode = "en-us"
 title = "My New Hugo Site"
